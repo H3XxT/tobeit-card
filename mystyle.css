@@ -27,6 +27,11 @@
      padding: 2em;
  }
 
+.my-blog > img {
+    height: 500px;
+    width: 500px;
+}
+
  .my-blog>h2 {
      color: rgb(18, 105, 219);
  }
@@ -62,3 +67,4 @@
  button:hover{
     background-color:rgb(11, 94, 202);
  }
+ 
